@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FZoe0409%2FApplied-data-science-final-Project)
+
 # Applied-data-science-final-Project
 
 # Introduction
